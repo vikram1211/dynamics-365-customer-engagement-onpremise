@@ -1,1 +1,0 @@
-To get the Plug-in Registration Tool, see [Download tools from NuGet](../customerengagement/on-premises/developer/download-tools-nuget.md).
